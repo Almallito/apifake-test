@@ -1,0 +1,14 @@
+{
+    "list": [
+        {"id": 1, "item": "Maça"},
+        {"id": 2, "item": "Tomate"},
+        {"id": 3, "item": "Leite"},
+        {"id": 4, "item": "Açucar"},
+        {"id": 5, "item": "Arroz"},
+        {"id": 6, "item": "Bolacha"},
+        {"id": 7, "item": "Cafe"},
+        {"id": 8, "item": "Nescal"},
+        {"id": 9, "item": "CocaCola"},
+        {"id": 10, "item": "Suco"}
+    ]
+}
