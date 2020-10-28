@@ -43,18 +43,18 @@
     ],
     "money": {
         "saldo": {
-            "salario": 1280,
-            "ajuda": 200,
-            "emprestimo": 500,
-            "guardado": 142
+            "salario": "1280",
+            "ajuda": "200",
+            "emprestimo": "500",
+            "guardado": "142"
         },
         "contas": {
-            "carro": 406,
-            "emprestimo": 581,
-            "celular": 248,
-            "cartaoR": 408,
-            "cartaoN": 410,
-            "seguro": 93
+            "carro": "406",
+            "emprestimo": "581",
+            "celular": "248",
+            "cartaoR": "408",
+            "cartaoN": "410",
+            "seguro": "93"
         }
     }
 }
