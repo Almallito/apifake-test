@@ -1,60 +1,62 @@
-{
-    "list": [
-        {
-            "id": 1,
-            "item": "Maça"
-        },
-        {
-            "id": 2,
-            "item": "Tomate"
-        },
-        {
-            "id": 3,
-            "item": "Leite"
-        },
-        {
-            "id": 4,
-            "item": "Açucar"
-        },
-        {
-            "id": 5,
-            "item": "Arroz"
-        },
-        {
-            "id": 6,
-            "item": "Bolacha"
-        },
-        {
-            "id": 7,
-            "item": "Cafe"
-        },
-        {
-            "id": 8,
-            "item": "Nescal"
-        },
-        {
-            "id": 9,
-            "item": "CocaCola"
-        },
-        {
-            "id": 10,
-            "item": "Suco"
-        }
-    ],
-    "money": {
-        "saldo": {
-            "salario": "1280",
-            "ajuda": "200",
-            "emprestimo": "500",
-            "guardado": "142"
-        },
-        "contas": {
-            "carro": "406",
-            "emprestimo": "581",
-            "celular": "248",
-            "cartaoR": "408",
-            "cartaoN": "410",
-            "seguro": "93"
+[
+    {
+        "list": [
+            {
+                "id": 1,
+                "item": "Maça"
+            },
+            {
+                "id": 2,
+                "item": "Tomate"
+            },
+            {
+                "id": 3,
+                "item": "Leite"
+            },
+            {
+                "id": 4,
+                "item": "Açucar"
+            },
+            {
+                "id": 5,
+                "item": "Arroz"
+            },
+            {
+                "id": 6,
+                "item": "Bolacha"
+            },
+            {
+                "id": 7,
+                "item": "Cafe"
+            },
+            {
+                "id": 8,
+                "item": "Nescal"
+            },
+            {
+                "id": 9,
+                "item": "CocaCola"
+            },
+            {
+                "id": 10,
+                "item": "Suco"
+            }
+        ],
+        "money": {
+            "saldo": {
+                "salario": 1280,
+                "ajuda": 200,
+                "emprestimo": 500,
+                "guardado": 142
+            },
+            "contas": {
+                "carro": 406,
+                "emprestimo": 581,
+                "celular": 248,
+                "cartaoR": 408,
+                "cartaoN": 410,
+                "seguro": 93
+            }
         }
     }
-}
+]
